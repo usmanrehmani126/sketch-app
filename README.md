@@ -21,15 +21,6 @@ This project showcases the power of local-first architecture where your app work
 - **React Native Reanimated** - Smooth gesture animations
 - **React Native Gesture Handler** - Touch gesture management
 
-## 📱 Demo
-
-Watch the video on YouTube → [Build a Local-First Sketch App with Expo, Instant & Reanimated](https://youtu.be/DEJIcaGN3vY)
-
-![InstantDB Tutorial](https://github.com/user-attachments/assets/3aedcf3a-5861-422d-a647-1fa899a8a3e1)
-
-
-## 🛠️ Setup
-
 ### Prerequisites
 
 - **Bun** installed on your machine
@@ -41,7 +32,7 @@ Watch the video on YouTube → [Build a Local-First Sketch App with Expo, Instan
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/betomoedano/sketch-app.git
+   git clone https://github.com/usmanrehmani126/sketch-app.git
    cd sketch-app
    ```
 
